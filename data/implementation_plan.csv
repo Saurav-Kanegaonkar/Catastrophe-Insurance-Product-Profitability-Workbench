@@ -1,0 +1,9 @@
+workstream_id,workstream,work_type,description,owner,linked_scenario,priority,readiness_score,status,blocker,due_in_days
+IMP-01,Pricing adequacy memo,Pricing,Quantify rate need and expected loss ratio movement by county and occupancy.,Analytics,Mitigation credit expansion,Medium,0.473,Blocked,Needs actuarial exhibit,9
+IMP-02,Eligibility guideline redline,Underwriting guideline,"Document tier-specific eligibility rules, inspection requirements, and referral triggers.",Product,Ember-zone eligibility tightening,High,0.6197,Blocked,Needs underwriting approval,21
+IMP-03,Policy form wording review,Policy language,"Review wildfire deductible language, vacancy conditions, and mitigation credit endorsements.",Product,Vacant-home deductible reset,High,0.7257,In review,Needs product wording decision,11
+IMP-04,Agent enablement brief,Agent practice,"Prepare appetite guide, objection handling, and bind authority notes for appointed agents.",Distribution,Seasonal-home growth lane,Medium,0.6651,In review,Needs actuarial exhibit,8
+IMP-05,Filing and compliance checklist,Implementation,Track admitted filing artifacts and E&S disclosure requirements by lane.,Compliance,Mitigation credit expansion,Medium,0.5932,Blocked,Needs actuarial exhibit,35
+IMP-06,Post-launch monitoring pack,Monitoring,"Define weekly metrics for quote flow, bind rate, loss signals, and referral quality.",Analytics,Ember-zone eligibility tightening,High,0.8517,Ready,None,24
+IMP-07,Inspection vendor control,Operational process,"Confirm inspection SLA, photo evidence completeness, and exception handling.",Operations,Vacant-home deductible reset,Medium,0.8068,In review,Needs underwriting approval,30
+IMP-08,Capacity steering review,Profit and growth,Compare written premium against county and peril capacity guardrails.,Leadership,Seasonal-home growth lane,Medium,0.8193,In review,Needs underwriting approval,24

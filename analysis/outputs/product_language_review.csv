@@ -1,0 +1,7 @@
+review_id,item,category,decision_needed,status,risk_level
+LANG-01,Wildfire deductible endorsement,Policy form,Clarify event trigger and multiple-location application.,Legal review,Medium
+LANG-02,Mitigation credit schedule,Product language,Tie credits to evidence requirements and inspection recency.,Product approved,Medium
+LANG-03,Vacancy condition wording,Policy form,Define vacancy threshold and required owner attestation.,Needs underwriting signoff,High
+LANG-04,Binding authority addendum,Agent practice,Document broker authority by county tier and occupancy type.,Distribution review,Medium
+LANG-05,Inspection evidence checklist,Underwriting guideline,"Require roof, defensible space, venting, and access photos.",Ready,High
+LANG-06,Nonrenewal referral trigger,Operational process,Route severe-tier renewal exceptions to underwriting review.,Analytics review,Medium

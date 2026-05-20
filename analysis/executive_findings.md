@@ -1,15 +1,17 @@
 # Executive Findings
 
-## What I analyzed
+## What I Analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for catastrophe insurance product profitability analytics.
+I modeled 64 catastrophe-exposed homeowners product segments across county, product form, occupancy type, market lane, expected loss, reinsurance load, expenses, capacity use, and agent readiness.
 
 ## Findings
 
-- The highest-priority policy segment is POL009 with a priority score of 93.53.
-- The top queue combines 51.3 average risk with 79.6 quality score and $773,308 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The portfolio carries $80,722,773 of modeled annual premium with a weighted expected combined ratio of 112.1%.
+- 8 segments are in the Advance lane because profit, capacity, and agent readiness support controlled growth.
+- 39 segments are in the Fix first lane because rate adequacy, capacity use, or implementation readiness needs action before growth.
+- The top-ranked opportunity is CAT-049 in Santa Barbara for Admitted HO-3 renewal, with a priority score of 73.0.
+- The strongest modeled product change is Ember-zone eligibility tightening, with $1,741,097 of modeled margin movement and a -7.9% combined-ratio change.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which policy segment risks need action, validation, or monitoring.
+Use the workbench as a weekly product review artifact. Advance profitable growth lanes, route weak segments to rate or guideline work, and keep product-language and agent-practice implementation tied to the same profitability view leadership uses.

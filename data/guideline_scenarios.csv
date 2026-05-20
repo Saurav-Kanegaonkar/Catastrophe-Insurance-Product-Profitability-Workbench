@@ -1,0 +1,5 @@
+scenario,lever,description,affected_segments,baseline_premium,incremental_premium,baseline_combined_ratio,proposed_combined_ratio,combined_ratio_delta,margin_delta,implementation_risk,recommendation
+Mitigation credit expansion,Product enhancement,"Increase credits for defensible space, Class A roof, ember-resistant vents, and monitored water supply.",36,46791897.37,1403756.92,1.1613,1.2181,0.0568,-2966297.96,0.22,Revise before launch
+Ember-zone eligibility tightening,Underwriting guideline,Require updated inspection evidence for severe-tier homes with close fuel proximity.,16,20916264.47,-460157.82,1.2531,1.1737,-0.0794,1741097.32,0.34,Recommend pilot
+Vacant-home deductible reset,Policy language,Move vacant homes to higher wildfire deductible and clearer loss-condition wording.,16,12813379.51,179387.31,1.2251,1.1888,-0.0363,431583.61,0.29,Recommend pilot
+Seasonal-home growth lane,Growth plan,Open seasonal-home eligibility in moderate and selected high-tier counties with inspection guardrails.,12,12268895.78,1042856.14,1.1181,1.2441,0.126,-1800156.14,0.31,Revise before launch

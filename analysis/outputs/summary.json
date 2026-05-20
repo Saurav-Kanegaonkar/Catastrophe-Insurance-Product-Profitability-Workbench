@@ -1,0 +1,25 @@
+{
+  "portfolio": {
+    "segment_count": 64,
+    "total_premium": 80722772.99,
+    "weighted_combined_ratio": 1.1214,
+    "weighted_margin": -0.1214,
+    "advance_segments": 8,
+    "fix_first_segments": 39,
+    "top_segment": "CAT-049",
+    "top_county": "Santa Barbara",
+    "top_action": "Monitor with weekly guardrails"
+  },
+  "scenario": {
+    "recommended_scenarios": 2,
+    "best_scenario": "Ember-zone eligibility tightening",
+    "best_margin_delta": 1741097.32,
+    "best_combined_ratio_delta": -0.0794
+  },
+  "implementation": {
+    "workstreams": 8,
+    "blocked_workstreams": 3,
+    "ready_workstreams": 1,
+    "language_items": 6
+  }
+}
